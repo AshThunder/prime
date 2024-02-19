@@ -4,8 +4,8 @@ const String appbartitle = 'Bells Food';
 const String andoidPackageName = 'com.bellsfood';
 
 //change this url to set your URL in app
-const String webinitialUrl = 'https://foodapp1.bellsfood.ng/';
-const String firstTabUrl = 'https://foodapp1.bellsfood.ng/';
+const String webinitialUrl = 'https://order.bellsfood.ng/';
+const String firstTabUrl = 'https://order.bellsfood.ng/';
 
 //keep local content of pages of setting screen
 const String aboutPageURL = '';
@@ -20,7 +20,7 @@ const String iOSAppId = '';
 const String shareAppTitle = appName;
 const String shareiOSAppMessage = '';
 const String shareAndroidAppMessge =
-    'Download $appName App from this link : http://play.google.com/store/apps/details?id=$androidAppId';
+    '';
 
 //To turn on/off ads
 const bool showInterstitialAds = false;
@@ -28,29 +28,29 @@ const bool showBannerAds = false;
 const bool showOpenAds = false;
 
 //To turn on/off display of bottom navigation bar
-const bool showBottomNavigationBar = true;
+const bool showBottomNavigationBar = false;
 
 //To show/remove splash screen
 const bool showSplashScreen = true;
 
 //To show/remove onboarding screen
-const bool showOnboardingScreen = true;
+const bool showOnboardingScreen = false;
 
 //To remove/display header/footer of website
 const bool hideHeader = false;
 const bool hideFooter = false;
 
 //Ids for interstitial Ad
-const androidInterstitialAdId = 'ca-app-pub-3940256099942544/1033173712';
-const iosInterstitialAdId = 'ca-app-pub-3940256099942544/4411468910';
+const androidInterstitialAdId = '';
+const iosInterstitialAdId = '';
 
 //Ids for banner Ad
-const androidBannerAdId = 'ca-app-pub-3940256099942544/6300978111';
-const iosBannerAdId = 'ca-app-pub-3940256099942544/2934735716';
+const androidBannerAdId = '';
+const iosBannerAdId = '';
 
 //Ids for app open Ad
-const androidOpenAdId = 'ca-app-pub-3940256099942544/3419835294';
-const iosOpenAdId = 'ca-app-pub-3940256099942544/5662855259';
+const androidOpenAdId = '';
+const iosOpenAdId = '';
 
 //icon to set when get firebase messages
 const String notificationIcon = '@mipmap/ic_launcher_squircle';

@@ -33,7 +33,7 @@
       
       <!-- uncomment required permissions here -->
  
-      <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> -->
+       <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
       <!-- <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> -->
       <!-- <uses-permission android:name="android.permission.CAMERA" /> -->
       <!-- <uses-feature android:name="android.hardware.camera" />  -->
@@ -50,7 +50,7 @@
 
       
    <application
-        android:label="PrimeWeb"
+        android:label="Bells Food"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher_squircle"
         android:usesCleartextTraffic="true"
