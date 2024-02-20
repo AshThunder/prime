@@ -8,9 +8,9 @@ const String webinitialUrl = 'https://order.bellsfood.ng/';
 const String firstTabUrl = 'https://order.bellsfood.ng/';
 
 //keep local content of pages of setting screen
-const String aboutPageURL = '';
-const String privacyPageURL = '';
-const String termsPageURL = '';
+const String aboutPageURL = 'https://order.bellsfood.ng/about-us';
+const String privacyPageURL = 'https://order.bellsfood.ng/privacy-policy';
+const String termsPageURL = 'https://order.bellsfood.ng/terms';
 
 //Change App id of android and IOS app
 const String androidAppId = andoidPackageName;
@@ -18,9 +18,9 @@ const String androidAppId = andoidPackageName;
 const String iOSAppId = '';
 
 const String shareAppTitle = appName;
-const String shareiOSAppMessage = '';
+const String shareiOSAppMessage = 'Satisfy your cravings with just a tap! 📲 Order your favorite meal from The Bells Hotel and Restaurant using Bells Food app or website. Easy, quick, and delicious! https://bellsfood.ng';
 const String shareAndroidAppMessge =
-    '';
+    'Satisfy your cravings with just a tap! 📲 Order your favorite meal from The Bells Hotel and Restaurant using Bells Food app or website. Easy, quick, and delicious! https://bellsfood.ng';
 
 //To turn on/off ads
 const bool showInterstitialAds = false;
